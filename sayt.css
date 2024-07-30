@@ -116,6 +116,7 @@
     }
     .btn-success-custom:hover {
         color: #ffffff;
+        background-color: blue;
     }
     /* Form control custom */
     .form-control-custom {
